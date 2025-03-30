@@ -6,7 +6,7 @@ This security policy applies to all aspects of the Project 2, including but not 
 
 ## Reporting a Vulnerability
 
-If users discover a security vulnerability in this project, please report it by [creating an issue]() in the issue tracker. Include as much detail as possible about the vulnerability and steps to reproduce it.
+If users discover a security vulnerability in this project, please report it by [creating an issue](https://github.com/Web-Programming-Team-14/project2/issues) in the issue tracker. Include as much detail as possible about the vulnerability and steps to reproduce it.
 
 ### Expectations
 
