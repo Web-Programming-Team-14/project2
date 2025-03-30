@@ -1,0 +1,30 @@
+0%Which ancient civilization built the Great Pyramids of Giza?%Romans%Greeks%Egyptians%Persians%C
+1%What is the hardest natural substance on Earth?%Gold%Diamond%Platinum%Steel%B
+2%Which country invented paper?%Japan%India%Egypt%China%D
+3%What is the name of Earth's only natural satellite?%Mars%Venus%Moon%Jupiter%C
+4%Which element makes up most of the Sun?%Oxygen%Helium%Hydrogen%Carbon%C
+5%What is the world's longest river?%Amazon%Nile%Mississippi%Yangtze%B
+6%Who painted "The Starry Night"?%Claude Monet%Salvador Dali%Vincent van Gogh%Pablo Picasso%C
+7%What is the smallest country in the world?%Monaco%San Marino%Luxembourg%Vatican City%D
+8%Which planet is known as the "Red Planet"?%Venus%Mars%Jupiter%Saturn%B
+9%What is the main ingredient in traditional Japanese wasabi?%Mustard%Horseradish%Ginger%Radish%D
+10%Which famous scientist was struck by an apple leading to his theory of gravity?%Albert Einstein%Galileo Galilei%Isaac Newton%Nikola Tesla%C
+11%What is the capital of Canada?%Toronto%Vancouver%Montreal%Ottawa%D
+12%Which animal can live up to 150 years?%Elephant%Giant Tortoise%Blue Whale%Parrot%B
+13%Who wrote "The Great Gatsby"?%Ernest Hemingway%F. Scott Fitzgerald%John Steinbeck%Virginia Woolf%B
+14%What is the largest desert in the world?%Sahara%Arabian%Antarctic%Gobi%C
+15%Which element has the chemical symbol 'Fe'?%Iron%Silver%Fluorine%Francium%A
+16%What is the official language of Brazil?%Spanish%English%French%Portuguese%D
+17%Who was the first woman to win a Nobel Prize?%Mother Teresa%Marie Curie%Jane Addams%Pearl Buck%B
+18%What is the fastest land animal?%Lion%Gazelle%Cheetah%Antelope%C
+19%Which country invented chess?%Russia%Persia%China%India%D
+20%What is the human body's largest organ?%Heart%Brain%Liver%Skin%D
+21%Which mountain range runs through South America?%Rocky Mountains%Alps%Himalayas%Andes%D
+22%What is the capital of South Korea?%Tokyo%Beijing%Seoul%Shanghai%C
+23%Who composed the "Moonlight Sonata"?%Mozart%Bach%Beethoven%Chopin%C
+24%What is the most abundant gas in Earth's atmosphere?%Oxygen%Carbon Dioxide%Nitrogen%Hydrogen%C
+25%Which ancient wonder was located in Babylon?%Colossus of Rhodes%Hanging Gardens%Great Pyramid%Lighthouse of Alexandria%B
+26%What is the study of weather called?%Geography%Geology%Meteorology%Oceanography%C
+27%Which bird lays the largest egg?%Emu%Cassowary%Ostrich%Eagle%C
+28%What is the capital of Morocco?%Cairo%Rabat%Tunis%Algiers%B
+29%Who invented the telephone?%Thomas Edison%Nikola Tesla%Alexander Graham Bell%George Westinghouse%C
