@@ -15,8 +15,8 @@
 		<div id = "top"> 
 				<img src="../../img/logo.png" alt="Logo"> 
 		</div> 
-		<h1>Welcome to My Game Show</h1>
-		<h1>Who Wants to be a Millionaire?</h1>
+		<h1>Welcome to our Game Show</h1>
+		<h1>Quiz Millionaire</h1>
 		<h2> Leaderboard </h2> 
 		<table> 
 			<tr>

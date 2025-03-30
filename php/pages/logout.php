@@ -18,8 +18,8 @@
 		<div id = "top"> 
 			<img src = "../../img/logo.png" alt = "Logo"> 
 		</div> 
-        <h1>Thanks for Visiting My Game Show</h1>
-		<h1>Who Wants to be a Millionaire?</h1>
+		<h1>Thanks for Visiting our Game Show</h1>
+		<h1>Quiz Millionaire</h1>
 			<p> GoodBye, <?= ucwords($_SESSION['user_auth']); ?>!</p> 
             <h2> <a href = "../logic/session-destroy.php">Go to Main Page</a> </h2> 
 	</div> 

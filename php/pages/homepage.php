@@ -16,8 +16,8 @@
 		<div id = "top"> 
 			<img src = "../../img/logo.png" alt = "Logo"> 
 		</div> 
-			<h1>Welcome to My Game Show</h1>
-			<h1>Who Wants to be a Millionaire?</h1>
+			<h1>Welcome to our Game Show</h1>
+			<h1>Quiz Millionaire</h1>
 			<p>Welcome, <?= ucwords($_SESSION['user_auth']); ?>!</p> 
 			<p>Rules: </p> 
 			<p>The game consists of 15 multiple-choice questions, each with 4 possible answers.</p> 

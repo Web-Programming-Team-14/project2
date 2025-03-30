@@ -15,8 +15,8 @@
 		<div id = "top"> 
 			<img src = "../../img/logo.png" alt = "Logo"> 
 		</div> 
-		<h1>Welcome to My Game Show</h1>
-		<h1>Who Wants to be a Millionaire?</h1>
+		<h1>Welcome to our Game Show</h1>
+		<h1>Quiz Millionaire</h1>
 		<h2>Please Sign Up</h2> 
 		<h2> <a href = "./login.php"> Already Sign Up? Please Log In Here</a></h2> 
 		<div> 
