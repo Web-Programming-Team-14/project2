@@ -18,7 +18,7 @@
     </header>
     <div id="main">
         <div id="content">
-            <img id="icon" src="../img/logo.png" alt="logo-img">
+            <img id="icon" src="../img/logo1.png" alt="logo-img">
             <div class="content__group">
                 <p>Ready to test your knowledge and win big? Click on Get Started to start playing!</p>
                 <div class="button-group">

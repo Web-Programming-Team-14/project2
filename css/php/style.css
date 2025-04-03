@@ -1,11 +1,11 @@
 :root {
-  --color-white: #f1f3f4;
-  --color-black: #656a74;
-  --color-blue: #4267b2;
+  --color-white: #000000;
+  --color-black: #5385e9;
+  --color-blue: #dc6371;
 }
 
 body {
-  background: url(../../img/background.png);
+  background: url(../../img/background1.png);
   color: var(--color-white);
   background-position: center;
   background-size: cover;
@@ -82,7 +82,7 @@ a:hover {
 
 .box {
   border: 2px solid var(--color-black);
-  background-color: #5900b3;
+  background-color: #ee9f6a;
   margin: 10px;
   margin-left: 1em;
   border-radius: 25px;
@@ -90,7 +90,7 @@ a:hover {
 
 input[type="submit"],
 button {
-  background-color: #5900b3;
+  background-color: #ee9f6a;
   color: var(--color-white);
   font-size: 120%;
   font-weight: bold;

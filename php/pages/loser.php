@@ -13,10 +13,10 @@
 <body>
     <div id = "mainarea">
 		<div id = "top"> 
-			<img src = "../../img/logo.png" alt = "Logo"> 
+			<img src = "../../img/logo1.png" alt = "Logo"> 
 		</div> 
 			<div> 
-				<img id = "loser" src = "../../img/lose.png" alt = "Loser"> <br>
+				<img id = "loser" src = "../../img/lose1.png" alt = "Loser"> <br>
 			</div> 
 			<h1>Sorry! You Lost!</h1>
 			<p> Please Try Again, <?= ucwords($_SESSION['user_auth']); ?>!</p> 

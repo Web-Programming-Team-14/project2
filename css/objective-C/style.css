@@ -1,7 +1,7 @@
 :root {
-  --color-white: #f1f3f4;
-  --color-black: #656a74;
-  --color-blue: #4267b2;
+  --color-white: #000000;
+  --color-black: #5385e9;
+  --color-blue: #dc6371;
 }
 
 * {
@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  background: url(../../img/background.png);
+  background: url(../../img/background1.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -43,7 +43,7 @@ body {
   background: var(--color-white);
   padding: 0.2rem;
   border: 2px solid var(--color-white);
-  background-image: url(../../img/logo.png);
+  background-image: url(../../img/logo1.png);
   background-position: center;
   background-size: 85%;
   background-repeat: no-repeat;
@@ -88,7 +88,7 @@ body {
   margin: 1rem 4rem;
   line-height: 2;
   box-shadow: 25px 25px 0px -10px var(--color-blue);
-  background: url(../../img/background.png);
+  background: url(../../img/background1.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

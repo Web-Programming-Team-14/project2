@@ -16,7 +16,7 @@
 <body>
     <div id = "mainarea">
 		<div id = "top"> 
-			<img src = "../../img/logo.png" alt = "Logo"> 
+			<img src = "../../img/logo1.png" alt = "Logo"> 
 		</div> 
 		<h1>Thanks for Visiting our Game Show</h1>
 		<h1>Quiz Millionaire</h1>
