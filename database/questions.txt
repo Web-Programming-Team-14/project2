@@ -1,30 +1,30 @@
-0%Which ancient civilization built the Great Pyramids of Giza?%Romans%Greeks%Egyptians%Persians%C
-1%What is the hardest natural substance on Earth?%Gold%Diamond%Platinum%Steel%B
-2%Which country invented paper?%Japan%India%Egypt%China%D
-3%What is the name of Earth's only natural satellite?%Mars%Venus%Moon%Jupiter%C
-4%Which element makes up most of the Sun?%Oxygen%Helium%Hydrogen%Carbon%C
-5%What is the world's longest river?%Amazon%Nile%Mississippi%Yangtze%B
-6%Who painted "The Starry Night"?%Claude Monet%Salvador Dali%Vincent van Gogh%Pablo Picasso%C
-7%What is the smallest country in the world?%Monaco%San Marino%Luxembourg%Vatican City%D
-8%Which planet is known as the "Red Planet"?%Venus%Mars%Jupiter%Saturn%B
-9%What is the main ingredient in traditional Japanese wasabi?%Mustard%Horseradish%Ginger%Radish%D
-10%Which famous scientist was struck by an apple leading to his theory of gravity?%Albert Einstein%Galileo Galilei%Isaac Newton%Nikola Tesla%C
-11%What is the capital of Canada?%Toronto%Vancouver%Montreal%Ottawa%D
-12%Which animal can live up to 150 years?%Elephant%Giant Tortoise%Blue Whale%Parrot%B
-13%Who wrote "The Great Gatsby"?%Ernest Hemingway%F. Scott Fitzgerald%John Steinbeck%Virginia Woolf%B
-14%What is the largest desert in the world?%Sahara%Arabian%Antarctic%Gobi%C
-15%Which element has the chemical symbol 'Fe'?%Iron%Silver%Fluorine%Francium%A
-16%What is the official language of Brazil?%Spanish%English%French%Portuguese%D
-17%Who was the first woman to win a Nobel Prize?%Mother Teresa%Marie Curie%Jane Addams%Pearl Buck%B
-18%What is the fastest land animal?%Lion%Gazelle%Cheetah%Antelope%C
-19%Which country invented chess?%Russia%Persia%China%India%D
-20%What is the human body's largest organ?%Heart%Brain%Liver%Skin%D
-21%Which mountain range runs through South America?%Rocky Mountains%Alps%Himalayas%Andes%D
-22%What is the capital of South Korea?%Tokyo%Beijing%Seoul%Shanghai%C
-23%Who composed the "Moonlight Sonata"?%Mozart%Bach%Beethoven%Chopin%C
-24%What is the most abundant gas in Earth's atmosphere?%Oxygen%Carbon Dioxide%Nitrogen%Hydrogen%C
-25%Which ancient wonder was located in Babylon?%Colossus of Rhodes%Hanging Gardens%Great Pyramid%Lighthouse of Alexandria%B
-26%What is the study of weather called?%Geography%Geology%Meteorology%Oceanography%C
-27%Which bird lays the largest egg?%Emu%Cassowary%Ostrich%Eagle%C
-28%What is the capital of Morocco?%Cairo%Rabat%Tunis%Algiers%B
-29%Who invented the telephone?%Thomas Edison%Nikola Tesla%Alexander Graham Bell%George Westinghouse%C
+0%Which gas makes up the majority of Earth's atmosphere?%Oxygen%Carbon Dioxide%Nitrogen%Argon%C
+1%Who wrote the novel "1984"?%Ernest Hemingway%George Orwell%J.D. Salinger%Aldous Huxley%B
+2%Which planet is closest to the Sun?%Venus%Earth%Mars%Mercury%D
+3%What is the capital of Australia?%Sydney%Melbourne%Canberra%Perth%C
+4%Which element has the chemical symbol 'Au'?%Silver%Gold%Aluminum%Argon%B
+5%Who painted the Mona Lisa?%Michelangelo%Leonardo da Vinci%Raphael%Donatello%B
+6%What is the largest ocean on Earth?%Atlantic%Indian%Arctic%Pacific%D
+7%Which country is home to the Great Barrier Reef?%Mexico%Brazil%Australia%Indonesia%C
+8%What is the chemical formula for water?%CO2%H2O%O2%H2O2%B
+9%Who wrote "Romeo and Juliet"?%Charles Dickens%Mark Twain%Jane Austen%William Shakespeare%D
+10%What is the tallest mountain in the world?%K2%Kilimanjaro%Mount Everest%Denali%C
+11%Which is the largest species of big cat?%Lion%Cheetah%Leopard%Tiger%D
+12%Which country is known as the Land of the Rising Sun?%China%Thailand%Japan%Vietnam%C
+13%What is the smallest prime number?%0%1%2%3%C
+14%Which musical instrument has 88 keys?%Guitar%Violin%Piano%Flute%C
+15%Who was the first person to walk on the Moon?%Buzz Aldrin%Yuri Gagarin%Neil Armstrong%John Glenn%C
+16%Which planet has the most moons?%Jupiter%Saturn%Uranus%Neptune%B
+17%What is the largest organ inside the human body?%Heart%Brain%Liver%Lungs%C
+18%Which country is home to the Taj Mahal?%Pakistan%India%Bangladesh%Nepal%B
+19%Who discovered penicillin?%Louis Pasteur%Marie Curie%Alexander Fleming%Jonas Salk%C
+20%What is the chemical symbol for gold?%Go%Gl%Gd%Au%D
+21%Which is the longest bone in the human body?%Radius%Humerus%Femur%Tibia%C
+22%What is the capital of Egypt?%Alexandria%Luxor%Giza%Cairo%D
+23%Who developed the theory of relativity?%Isaac Newton%Albert Einstein%Stephen Hawking%Niels Bohr%B
+24%Which is the driest continent on Earth?%Africa%Australia%Asia%Antarctica%D
+25%What is the hardest natural substance?%Titanium%Steel%Quartz%Diamond%D
+26%Who painted the ceiling of the Sistine Chapel?%Leonardo da Vinci%Raphael%Michelangelo%Donatello%C
+27%Which country gifted the Statue of Liberty to the United States?%England%Spain%France%Italy%C
+28%What is the largest species of penguin?%King Penguin%Emperor Penguin%Adélie Penguin%Rockhopper Penguin%B
+29%Which famous scientist developed the three laws of motion?%Galileo Galilei%Michael Faraday%Isaac Newton%Albert Einstein%C
