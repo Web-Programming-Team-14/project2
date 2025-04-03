@@ -14,6 +14,9 @@
             <nav class="header__navbar">
                 <a href="../php/pages/index.php" target="_self" rel="noopener noreferrer" class="header__link">Get Started</a>
             </nav>
+            <nav class="header__navbar">
+                <a href="../php/pages/infor.html" target="_self" rel="noopener noreferrer" class="header__link">Team 14</a>
+            </nav>
         </div>  
     </header>
     <div id="main">
