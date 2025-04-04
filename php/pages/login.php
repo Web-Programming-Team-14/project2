@@ -17,7 +17,7 @@
             <img src = "../../img/logo1.png" alt = "Logo"> 
         </div> 
         <h1>Welcome to our Game Show</h1>
-		<h1>Quiz Millionaire</h1>
+		<h1>Quiz Millionaire!</h1>
         <h2> Please Log In</h2> 
         <div> 
             <form action="../logic/login-submit.php" method="POST">

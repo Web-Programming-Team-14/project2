@@ -16,7 +16,7 @@
 			<img src = "../../img/logo1.png" alt = "Logo"> 
 		</div> 
 			<h1>Welcome to our Game Show</h1>
-			<h1>Quiz Millionaire</h1>
+			<h1>Quiz Millionaire!</h1>
 			<br> <br> 
 			<div class = "nav"> 
 				<a href = "./register.php" class = "box"> 

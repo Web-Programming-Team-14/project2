@@ -1,7 +1,7 @@
 :root {
-  --color-white: #000000;
-  --color-black: #5385e9;
-  --color-blue: #dc6371;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-blue: #308833;
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 #mainarea h2,
 #mainarea p,
 a {
-  color: var(--color-black);
+  color: var(--color-white);
 }
 #mainarea h1 {
   font-size: 40pt;
@@ -186,4 +186,56 @@ tr:nth-child(odd) {
   .nav a {
     display: block;
   }
+}
+
+#question {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+#question h2 {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: #333;
+  text-align: center;
+}
+
+#question fieldset {
+  border: none;
+  padding: 0;
+}
+
+#question div {
+  margin-bottom: 15px;
+}
+
+#question input[type="radio"] {
+  margin-right: 10px;
+}
+
+#question label {
+  font-size: 1rem;
+  color: #333;
+  cursor: pointer;
+}
+
+#question input[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#question input[type="submit"]:hover {
+  background-color: #0056b3;
 }

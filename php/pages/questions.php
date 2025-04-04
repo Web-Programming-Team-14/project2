@@ -66,7 +66,7 @@
 				<img src = "../../img/logo1.png" alt = "Logo"> 
 			</div> 
 				<h1>Welcome to our Game Show</h1>
-				<h1>Quiz Millionaire</h1>
+				<h1>Quiz Millionaire!</h1>
 			</div>
 		<div id="question">
 			<form method="post" action="../logic/validate.php">
