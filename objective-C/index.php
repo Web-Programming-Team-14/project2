@@ -23,6 +23,8 @@
         <div id="content">
             <img id="icon" src="../img/logo1.png" alt="logo-img">
             <div class="content__group">
+                <p>Are you ready to put your wits to the test?</p>
+                <p>Do you have the knowledge and strategy to reach the million-point question?</p>
                 <p>Ready to test your knowledge and win big? Click on Get Started to start playing!</p>
                 <div class="button-group">
                     <a href="../php/pages/index.php" class="btn">Get Started</a>
