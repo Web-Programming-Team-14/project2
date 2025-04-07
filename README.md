@@ -8,10 +8,10 @@
 
 ## Materials:
 
-- [Website]()
-- [Proposal]()
-- [PowerPoint]()
-- [Video]()
+- [Website](https://codd.cs.gsu.edu/~nnguyen177/project2/objective-C/index.php)
+- [Proposal](https://drive.google.com/file/d/13K7AJD2-l8Ir1r5aXVFo9Kwy1eJiQ195/view?usp=sharing)
+- [PowerPoint](https://docs.google.com/presentation/d/1A-i0Vc9-7deuUVyEwLDBXsW8WbLI3bMT/edit?usp=sharing&ouid=115868471783120857845&rtpof=true&sd=true)
+- [Video](https://drive.google.com/file/d/14CoRrtBOpbBrCEdRVeK7Fc0hpqYa2Ijd/view?usp=sharing)
 
 ## Project Summary:
 
